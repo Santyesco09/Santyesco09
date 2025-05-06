@@ -28,7 +28,7 @@
 </div>
 
 <div align="center">
-	<img src="[![roadmap.sh](https://roadmap.sh/card/tall/66a1963223c186c28d6056e0?variant=dark)](https://roadmap.sh)" alt="Roadmap graph"/>
+	<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/66a1963223c186c28d6056e0?variant=dark" alt="roadmap.sh"/></a>
 </div>
 
 <div align="center">
