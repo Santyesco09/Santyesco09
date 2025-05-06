@@ -28,6 +28,10 @@
 </div>
 
 <div align="center">
+  <img src="[![roadmap.sh](https://roadmap.sh/card/tall/66a1963223c186c28d6056e0?variant=dark)](https://roadmap.sh)"/>
+</div>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Santyesco09&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dark&locale=es&hide_border=true&order=1" height="150" alt="stats graph"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Santyesco09&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"/>
 </div>
